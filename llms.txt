@@ -1,0 +1,29 @@
+# Dr. Ogunmola's Lab
+
+> The personal lab of Dr. Oluwaseun Ogunmola, an AI consultant and speaker who is a scientist at heart. The lab is where ideas in software, AI, servers and cloud, and games for learning get tested, and where the ones that work come to live.
+
+Dr. Oluwaseun Ogunmola does consulting, talks and AI work (see the main website below). This site, ogunmola.com.ng, is the experimental side: things built to test an idea.
+
+Every build follows the same five-step loop:
+1. Notice: spot a real problem that real people have.
+2. Hypothesise: make a testable guess about what would help.
+3. Build: make the smallest thing that can test the guess.
+4. Test: put it in front of the people it's for, and measure.
+5. Learn: keep what works, drop what doesn't, go again.
+
+## Builds
+
+- [Dr. Ogunmola GameLabs](https://gamelabs.ogunmola.com.ng/): Free educational games that run in the browser, with no sign-up. First up is MathsBlitz, quick-fire arithmetic from JSS 1 through to WAEC and JAMB revision. The experiment: can short, well-made games make practice something students choose to come back to?
+
+- [AiiA: Artificial Intelligence in Africa](https://aiia.teravest.com.ng/): A pan-African initiative of Teravest Technology Labs helping Africans learn and apply AI, through bootcamps, free courses and e-books, and programmes for schools, women and small businesses. The experiment: can affordable, hands-on AI training put the tools in the hands of every African community, not just the tech hubs?
+
+## About Dr. Oluwaseun Ogunmola
+
+- [Main website](https://www.seunogunmola.com.ng/): consulting, talks and AI work
+- [LinkedIn](https://www.linkedin.com/in/seunogunmola/)
+- [YouTube](https://www.youtube.com/@DrOluwaseunOgunmola)
+- [X (@olukomputa)](https://x.com/olukomputa)
+
+## Optional
+
+- [Lab home page](https://ogunmola.com.ng/)

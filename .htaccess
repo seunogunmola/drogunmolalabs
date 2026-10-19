@@ -1,0 +1,7 @@
+# Send every visitor to https://ogunmola.com.ng (no www, always HTTPS)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://ogunmola.com.ng%{REQUEST_URI} [L,R=301]
+</IfModule>
